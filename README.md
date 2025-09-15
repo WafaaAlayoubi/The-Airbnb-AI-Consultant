@@ -1,9 +1,9 @@
 # The Airbnb AI Consultant 🤖
 
-[![Kaggle](https://img.shields.io/badge/Notebook-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/wafaaalayoubi/los-angeles-airbnb-data-june-2025)
-[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/wafaaalayoubi/the-airbnb-ai-consultant)
-[![Medium](https://img.shields.io/badge/Blog-Medium-black?logo=medium&logoColor=white)](https://medium.com/your-blog-post-link)
-[![YouTube](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/vmdcQZkTWpc)
+[![Kaggle](https://img.shields.io/badge/Notebook-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/wafaaalayoubi/the-airbnb-ai-consultant)
+[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/wafaaalayoubi/los-angeles-airbnb-data-june-2025)
+[![Medium](https://img.shields.io/badge/Blog-Medium-black?logo=medium&logoColor=white)](https://medium.com/@wafaaelayoubi.w/i-built-an-ai-consultant-for-airbnb-hosts-with-google-cloud-5592ffb53b76)
+[![YouTube](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GuUszMD0Mqo)
 
 
 
@@ -60,6 +60,6 @@ The final output is a powerful "AI Scorecard" that provides targeted advice:
 
 ## 🔗 Project Links
 
-*   **Live Kaggle Notebook:** [Link to your Public Kaggle Notebook]
-*   **Video Demo (YouTube):** [Link to your YouTube Video]
-*   **Blog Post (Medium):** [Link to your Blog Post]
+*   **Live Kaggle Notebook:** [kaggle Notebook](https://www.kaggle.com/code/wafaaalayoubi/the-airbnb-ai-consultant)
+*   **Video Demo (YouTube):** [YouTube Video](https://www.youtube.com/watch?v=GuUszMD0Mqo)
+*   **Blog Post (Medium):** [Blog Post](https://medium.com/@wafaaelayoubi.w/i-built-an-ai-consultant-for-airbnb-hosts-with-google-cloud-5592ffb53b76)
